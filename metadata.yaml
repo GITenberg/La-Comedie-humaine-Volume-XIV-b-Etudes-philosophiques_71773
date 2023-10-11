@@ -1,5 +1,8 @@
 _repo: La-Comedie-humaine-Volume-XIV-b-Etudes-philosophiques_71773
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71773-h/images/cover.jpg
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -16,6 +19,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac
     - https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71773#La-Comedie-humaine-Volume-XIV-b-Etudes-philosophiques
 gutenberg_issued: '2023-10-01'
 identifiers:
   gutenberg: '71773'
